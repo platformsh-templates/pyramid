@@ -33,10 +33,10 @@
         },
         "pastedeploy": {
             "hashes": [
-                "sha256:5f4b4d5fddd39b8947ea727161e366bf55b90efc60a4d1dd7976b9031d0b4e5f",
-                "sha256:6195c921b1c3ed9722e4e3e6aa29b70deebb2429b4ca3ff3d49185c8e80003bb"
+                "sha256:76388ad53a661448d436df28c798063108f70e994ddc749540d733cdbd1b38cf",
+                "sha256:9ddbaf152f8095438a9fe81f82c78a6714b92ae8e066bed418b6a7ff6a095a95"
             ],
-            "version": "==3.0.1"
+            "version": "==3.1.0"
         },
         "plaster": {
             "hashes": [
@@ -93,10 +93,10 @@
         },
         "venusian": {
             "hashes": [
-                "sha256:06e7385786ad3a15c70740b2af8d30dfb063a946a851dcb4159f9e2a2302578f",
-                "sha256:f6842b7242b1039c0c28f6feef29016e7e7dd3caaeb476a193acf737db31ee38"
+                "sha256:d1fb1e49927f42573f6c9b7c4fcf61c892af8fdcaa2314daa01d9a560b23488d",
+                "sha256:eb72cdca6f3139a15dc80f9c95d3c10f8a54a0ba881eeef8e2ec5b42d3ee3a95"
             ],
-            "version": "==3.0.0"
+            "version": "==3.1.0"
         },
         "webob": {
             "hashes": [
